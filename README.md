@@ -1,0 +1,2 @@
+# pungen
+Typescript pun generator
